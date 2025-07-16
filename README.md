@@ -20,9 +20,9 @@ The dashboard helps users quickly understand the current landscape of data analy
 
 ![Dashboard Screenshot](Dashboard_image.png)
 
-## 2.Data Analytics Jobs Dashboard Project 
+ 
 
-## Data Jobs Salary Analysis Project  
+## 2.Data Jobs Salary Analysis Project  
 
 This Excel project provides a comprehensive analysis of salaries and skills for various data-related jobs using multiple worksheets. The analysis is presented through pivot tables and interactive charts, offering insights such as:
 
