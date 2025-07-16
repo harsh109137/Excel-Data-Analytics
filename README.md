@@ -1,6 +1,9 @@
-## Data Analytics Jobs Dashboard Project  
+# Excel Projects
 
-This Excel project is an interactive dashboard that visualizes key insights about data analytics jobs. It includes:
+## 1. Data Analytics Jobs Dashboard
+
+ 
+ This Excel project is an interactive dashboard that visualizes key insights about data analytics jobs. It includes:
 
 - **Job Titles:** Overview of various data analytics roles.
 - **Salaries:** Comparative salary analysis for different positions.
@@ -17,6 +20,7 @@ The dashboard helps users quickly understand the current landscape of data analy
 
 ![Dashboard Screenshot](Dashboard_image.png)
 
+## 2.Data Analytics Jobs Dashboard Project 
 
 ## Data Jobs Salary Analysis Project  
 
