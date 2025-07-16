@@ -1,2 +1,2 @@
-# Excel-Data Analytics
-Showing Excel skills I have
+# Excel Project-Data Analysis
+Showing Excel skills I have.
