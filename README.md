@@ -7,6 +7,8 @@ This Excel project is an interactive dashboard that visualizes key insights abou
 - **Top Countries:** Countries with the highest number of job opportunities.
 - **Job Platforms:** Main platforms where these jobs are posted.
 - **Job Counts:** Number of job listings per job title.
-- **Job Schedule:** Breakdown of different job schedule in the analytics field.
-
+- **Job Schedule Type:** Breakdown of different job schedule in the analytics field.
+![Dashboard](EXCEL_GIF1.gif)
 The dashboard helps users quickly understand the current landscape of data analytics careers using clear charts and tables.
+
+![Dashboard Screenshot](Dashboard_image.png)
